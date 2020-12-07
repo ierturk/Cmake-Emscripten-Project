@@ -2,7 +2,7 @@
 A skeleton ```Cmake``` project to generate ```WASM``` and ```JS``` file and serving with ```HTML```. ```Ubuntu``` ```WSL2``` is used from ```Microsoft``` ```Windows 10 - x64``` machine for testing..
 
 ## How to use
-1. ```Clion``` this repo.
+1. Clone this repo.
 2. Install ```Emscripten``` by following steps on [emscripten website](https://emscripten.org/docs/getting_started/downloads.html)
 3. In CLion CMAKE setting  add ```CMAKE_TOOLCHAIN_FILE=path/to/emscripten/emscripten/version/cmake/Modules/Platform/Emscripten.cmake```
 4. Build from ```Clion```
